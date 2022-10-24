@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Yan"
+title                    : "Huan Lei"
 title_separator          : "-"
-name                     : &name "Ming Yan"
+name                     : &name "Huan Lei"
 description              : &description "personal description"
-url                      : https://mingyan08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leihuan-mp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mingyan08/mingyan08.github.io"
-teaser                   : "Yan3.jpg"
+repository               : "leihuan-mp/leihuan-mp.github.io"
+teaser                   : "H_Lei.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Yan"
-  avatar           : "Yan3.jpg"
-  bio              : "Associate Professor at the Chinese University of Hong Kong, Shenzhen"
-  location         : "Shenzhen, China"
+  name             : "Huan Lei"
+  avatar           : "H_Lei.jpg"
+  bio              : "Assistant Professor at Michigan State University"
+  location         : "East Lansing, MI"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IR1mvb0AAAAJ&hl=en"
-  email            : "yanming@cuhk.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en"
+  email            : "leihuan@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mingyan08"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ming-yan-%E4%B8%A5%E6%98%8E-1578721b/"
-  orcid            : "http://orcid.org/0000-0002-8686-3530"
+  linkedin         : #"https://www.linkedin.com/in/ming-yan-%E4%B8%A5%E6%98%8E-1578721b/"
+  orcid            : "https://orcid.org/0000-0002-9730-6481"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

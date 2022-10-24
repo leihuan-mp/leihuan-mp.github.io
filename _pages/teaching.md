@@ -7,28 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-
-* No teaching in Fall 2022
+* [CMSE 201](https://msu-cmse-courses.github.io/cmse201-F22-jb/intro.html): Computational Modeling and Data Analysis I, Fall 2022
 
 Previous Teaching
 ======
-* The Chinese University of Hong Kong, Shenzhen
-  * MAT 3007: Optimization, Summer 2022 
+* CMSE 801: Introduction to computational modeling, Spring 2022, Spring 2021, Fall 2020
 
-* Michigan State University
-  * CMSE 202: Computational Modeling Tools and Techniques, Spring 2017
-  * CMSE 382: Optimization Methods in Data Science, Fall 2021
-  * CMSE 802: Methods in Computational Modeling, Fall 2016
-  * CMSE 831: Computational Optimization, Fall 2017, Fall 2019, Spring 2021
-  * CMSE 890: Geolocation Data Processing, Spring 2019
-  * MTH 132: Calculus I, Spring 2018
-  * MTH 314: Matrix Algebra I, Spring 2016, Spring 2019, Spring 2020, Fall 2021
+* STT 873: Statistical Learning and Data Mining, Fall 2021
 
-* University of California, Los Angeles
-  * Math 3B: Calculus for Life Sciences Students, Fall 2014
-  * Math 115A: Linear Algebra, Winter 2015
-  * Math 142: Mathematical Modeling, Spring 2015
-  * Math 164: Optimization, Summer 2014
+* STT 431: Introduction to Probability and Statistics, Spring 2020 
 
-* Rice University
-  * [CAAM 654: Sparse Optimization, Fall 2012](http://www.caam.rice.edu/~optimization/sparse/index.html)
+

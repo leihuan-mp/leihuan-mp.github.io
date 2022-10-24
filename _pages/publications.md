@@ -7,152 +7,167 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my recent articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=IR1mvb0AAAAJ)
+[[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
-2022
+
+* L. Fang , P. Ge, L. Zhang, W. E, and H. Lei.  DeePN<sup>2</sup>: A
+Deep Learning-Based non-Newtonian Hydrodynamic Model. *Journal of 
+Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115).
+
+
+* Y. Zhu, and H. Lei. 2022. Effective Mori-Zwanzig Equation for the
+Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982 [[link]](https://doi.org/10.3934/dcdss.2021096).
+
+
+* Y. Zhu, H. Lei, and C. Kim.  Generalized Second
+Fluctuation-Dissipation Theorem in the Nonequilibrium Steady State:
+Theory and Applications, 2021. *arXiv Preprint:arXiv:2104.05222* [[arXiv]](https://arxiv.org/abs/2104.05222).
+
+
+* H. Lei and X. Li.  Petrov–Galerkin Methods for the Construction
+of non-Markovian Dynamics Preserving Nonlocal Statistics. *J. Chem. Phys.* 154 (18): 184108, 2021 [[link]](https://doi.org/10.1063/5.0042679).
+
+
+* H. Lei, L. Wu, and W. E. Machine Learning Based non-Newtonian
+Fluid Model with Molecular Fidelity. *Phys. Rev. E* 102: 043309, 2020
+[[link]](https://doi.org/10.1103/PhysRevE.102.043309).
+
+
+* F. Grogan, H. Lei, X. Li, and N. A. Baker.  Data-Driven Molecular
+Modeling with the Generalized Langevin Equation. *J. Comput. Phys.*
+418: 109633–109641, 2020 [[link]](https://doi.org/10.1016/j.jcp.2020.109633).
+
+* P. Stinis, H. Lei, J. Li, and H. Wan. “Improving Solution
+Accuracy and Convergence for Stochastic Physics Parameterizations with
+Colored Noise.” *Mon. Weather Rev.* 148 (2): 2251–63, 2020
+[[link]](https://doi.org/10.1175/MWR-D-19-0178.1).
+
+* J. Lu, F. Liu, L. R. Leung, and H. Lei. “Neutral Modes of Surface
+Temperature and the Optimal Ocean Thermal Forcing for Global Cooling.”
+*NPJ Clim. Atmos. Sci.* 3 (1): 9, 2020
+[[link]](https://doi.org/10.1038/s41612-020-0112-6).
+
+
+* H. Lei, J. Li, P. Gao, P. Stinis, and N.A. Baker. A Data-Driven
+Framework for Sparsity-Enhanced Surrogates with Arbitrary Mutually
+Dependent Randomness. *Comput. Methods Appl. Mech. Eng.* 350: 199–227, 2019
+[[link]](https://doi.org/https://doi.org/10.1016/j.cma.2019.03.014).
+
+
+* Y. Wang, H. Lei, and P. Atzberger. Fluctuating Hydrodynamic
+Methods for Fluid-Structure Interactions in Confined Channel
+Geometries. *Appl. Math. Mech.* 39 (1): 125–152, 2018.
+[[link]](https://doi.org/https://doi.org/10.1007/s10483-018-2253-8).
+
+
+* X. Yang<sup>\*</sup>, H. Lei<sup>\*</sup>, P. Gao<sup>\*</sup>, D. G.
+Thomas, D. L. Mobley, and N. A. Baker. “Atomic Radius and Charge
+Parameter Uncertainty in Biomolecular Solvation Energy Calculations.”
+*J. Chem. Theory Comput.* 14 (2): 759–767, 2018
+[[link]](https://doi.org/10.1021/acs.jctc.7b00905).
+
+
+* H. Lei, X. Yang, Z. Li, and G. E. Karniadakis. “Systematic
+Parameter Inference in Stochastic Mesoscopic Modeling.” *J. Comput.
+Phys.* 330 (4): 571–593, 2017 [[link]](https://doi.org/10.1016/j.jcp.2016.10.029).
+
+
+* H. Lei, N. A. Baker, and X. Li.  Data-Driven Parameterization of
+the Generalized Langevin Equation. *Proc. Natl. Acad. Sci.* 113 (50):
+14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
+
+
+* X. Yang<sup>\*</sup>, H. Lei<sup>\*</sup>, N. A. Baker, and G. Lin.
+ Enhancing Sparsity of Hermite Polynomial Expansions by Iterative
+Rotations. *J. Comput. Phys.* 307: 94–109, 2016 [[link]](https://doi.org/10.1016/j.jcp.2015.11.038).
+
+
+* H. Lei, N. A. Baker, L. Wu, G. K. Schenter, C. J. Mundy, and A. M.
+Tartakovsky.  Smoothed Dissipative Particle Dynamics Model for
+Mesoscopic Multiphase Flows in the Presence of Thermal Fluctuations.
+*Phys. Rev. E* 94: 023304, 2016 [[link]](https://doi.org/10.1103/PhysRevE.94.023304).
+
+
+* K. Lykov, X. Li, H. Lei, I. V. Pivkin, and G. E. Karniadakis. 
+Inflow/Outflow Boundary Conditions for Particle-Based Blood Flow
+Simulations: Application to Arterial Bifurcations and Trees. *PLoS
+Comput. Biol.* 11 (8): e1004410, 2015 [[link]](https://doi.org/10.1371/journal.pcbi.1004410).
+
+* H. Lei, X. Yang, B. Zheng, G. Lin, and N. A. Baker. Constructing
+Surrogate Models of Complex Systems with Enhanced Sparsity: Quantifying
+the Influence of Conformational Uncertainty in Biomolecular Solvation.
+*SIAM Multiscale Model. Simul.* 13 (4): 1327–1353, 2015 [[link]](https://doi.org/10.1137/140981587).
+
+* H. Lei, C. J. Mundy, G. K. Schenter, and N. K. Voulgarakis. 2015.
+Modeling Nanoscale Hydrodynamics by Smoothed Dissipative Particle
+Dynamics. *J. Chem. Phys.* 142 (19): 194504, 2015 [[link]](https://doi.org/10.1063/1.4921222).
+
+
+* X. Li, E. Du, H. Lei, Y. Tang, M. Dao, S. Suresh, and G. E.
+Karniadakis. Patient-Specific Blood Rheology in Sickle-Cell
+Anaemia. *Interface Focus* 6 (1): 20150065, 2015
+[[link]](https://doi.org/10.1098/rsfs.2015.0065).
+
+
+* X. Li, Z. Peng, H. Lei, M. Dao, and G. E. Karniadakis.  Probing
+Red Blood Cell Mechanics, Rheology and Dynamics with a Two-Component
+Multi-Scale Model. *Phil. Trans. R. Soc. A* 372 (2021): 20130389,  2014
+[[link]](https://doi.org/10.1098/rsta.2013.0389).
+
+
+* Z. Li, Y. Tang, H. Lei, B. Caswell, and G. E. Karniadakis.
+Energy-Conserving Dissipative Particle Dynamics with
+Temperature-Dependent Properties. *J. Comput. Phys.* 265: 113–27, 2014
+[[link]](https://doi.org/10.1016/j.jcp.2014.02.003).
+
+
+* H. Lei and G. E. Karniadakis. Probing Vasoocclusion Phenomena in Sickle Cell Anemia via
+Mesoscopic Simulations. *Proc. Natl. Acad. Sci.* 110 (28): 11326–30, 2013 
+[[link]](https://doi.org/10.1073/pnas.1221297110).
+
+
+* H. Lei, D. A. Fedosov, B. Caswell, and G. E. Karniadakis. Blood
+Flow in Small Tubes: Quantifying the Transition to the Non-Continuum
+Regime. *J. Fluid Mech.* 722: 214–39, 2013
+[[link]](https://doi.org/10.1017/jfm.2013.91).
+
+* H. Lei and G. E. Karniadakis. Predicting the Morphology of
+Sickle Red Blood Cells Using Coarse-Grained Models of Intracellualr
+Aligned Hemoglobin Polymers. *Soft Matter* 8: 4507–16, 2012
+[[link]](https://doi.org/10.1039/C2SM07294G).
+
+* H. Lei and G. E. Karnidakis.  Quantifying the Rheological and
+Hemodynamic Characteristics of Sickle Cell Anemia. *Biophys. J.* 102:
+185–194, 2012 [[link]](https://doi.org/10.1016/j.bpj.2011.12.006).
+
+* L. Grinberg, M. Deng, H. Lei, J. A. Insley, and G. E. Karniadakis.
+Multiscale Simulations of Blood Flow: From a Platelet to an
+Artery. *Proc. of Conference of the Extreme Science and Engineering
+Discovery* 33: 1–7, 2012 [[link]](https://doi.org/10.1145/2335755.2335829).
+
+* D. A. Fedosov, H. Lei, B. Caswell, S. Suresh, and G. E. Karniadakis.
+Multiscale Modeling of Red Blood Cell Mechanics and Blood Flow in
+Malaria. *PLoS Comput. Biol.* 7 (12): e1002270, 2011 [[link]](https://doi.org/10.1371/journal.pcbi.1002270).
+
+
+* H. Lei, D. A. Fedosov, and G. E. Karniadakis. Time-Dependent and
+Outflow Boundary Conditions for Dissipative Particle Dynamics. *J.
+Comput. Phys.* 230 (10): 3765–3779, 2011
+[[link]](https://doi.org/https://doi.org/10.1016/j.jcp.2011.02.003).
+
+
+* H. Lei, B. Caswell, and G. E. Karniadakis. “Direct Construction
+of Mesoscopic Models from Microscopic Simulations.” *Phys. Rev. E* 81:
+026704, 2010 [[link]](https://doi.org/10.1103/PhysRevE.81.026704).
+
+Book Chapters
 ===
-- L. Wang and M. Yan, [Hessian informed mirror descent](http://doi.org/10.1007/s10915-022-01933-5), Journal of Scientific Computing, 92(2022), 90
+* H. Lei and G. E. Karniadakis. Multiscale Modeling of Sickle
+Cell Anemia. In  A. Quarteroni, editor, *Modeling the Heart and the Circulatory System*,
+119–156. Springer, 2015 [[link]](https://doi.org/10.1007/978-3-319-05230-4_5).
 
-- Z. Song, L. Shi, S. Pu, and M. Yan, [Compressed gradient tracking for decentralized optimization over general directed networks](http://doi.org/10.1109/TSP.2022.3160238), IEEE Transactions on Signal Processing, 70(2022), 1775--1787.
-
--	Z. Li, M. Yan, T. Zeng, and G. Zhang, [Phase retrieval from incomplete data via weighted nuclear norm minimization](http://doi.org/10.1016/j.patcog.2022.108537), Pattern Recognition, 125(2022), 108537. 
-
-- M. Yan, [Asynchronous parallel computing](http://doi.org/10.1002/9781118445112.stat08317), in W. Piegorsch, R. Levine, H. Zhang, and	T. Lee (Eds.), Handbook of Computational Statistics and Data Science.
-
-2021
-=== 
-- H. Tang, Y. Li, J. Liu, and M. Yan, [ErrorCompensatedX: error compensation for variance reduced algorithms](https://openreview.net/forum?id=_lo3udikhNH), In: Proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2021). 
-
-- X. Zeng, M. Yan, and M. Zhang, [Mercury: a framework for efficient and elastic on-device distributed DNN training](http://doi.org/10.1145/3485730.3485930), In: Proceedings of Conference on Embedded Networked Sensor Systems (SenSys 2021), 29--41.
-
-- S. Alghunaim, Q. Lyu, M. Yan, and A. Sayed, [Dual consensus proximal algorithm for multi-agent sharing problems](http://doi.org/10.1109/TSP.2021.3114978), IEEE Transactions on Signal Processing, 69(2021), 5568--5579.
-
-- H. Ouassal, M. Yan, and J. Nanzer, [Decentralized frequency alignment for collaborative beamforming in distributed phased arrays](http://doi.org/10.1109/TWC.2021.3073120), IEEE Transactions on Wireless Communications, 20 (2021), 6269--6281.
-
-- X. Liu, W. Jin, Y. Ma, Y. Li, H. Liu, Y. Wang, M. Yan, and J. Tang, [Elastic graph neural networks](http://proceedings.mlr.press/v139/liu21k.html), In: Proceedings of International Conference on Machine Learning (ICML 2021), PMLR 139 (2021), 6837--6849, 2021. 
-
-- S. Vakalis, D. Chen, M. Yan, and J. Nanzer, [Image enhancement in active incoherent millimeter-wave imaging](http://doi.org/10.1117/12.2585650), In: Proceedings of Passive and Active Millimeter-Wave Imaging XXIV, 11745 (2021), 1174507. 
-
-- J. Carrillo, L. Wang, W. Xu, and M. Yan, [Variational asymptotic preserving scheme for the Vlasov-Poisson-Fokker-Planck system](http://doi.org/10.1137/20M1350431), Multiscale Modeling and Simulation, 19 (2021),  478--505. 
-
-- W. Guo, Y. Lou, J. Qin, and M. Yan, [A novel regularization based on the error function for sparse recovery](http://doi.org/10.1007/s10915-021-01443-w), Journal of Scientific Computing, 87 (2021), 31.
-
-- Y. Li and M. Yan, [On linear convergence of two decentralized algorithms](http://doi.org/10.1007/s10957-021-01833-y), Journal of Optimization Theory and Applications, 189 (2021), 271-290. 
-
-- X. Liu, Y. Li, R. Wang, J. Tang, and M. Yan, [Linear convergent decentralized optimization with compression](http://openreview.net/forum?id=84gjULz1t5), In: Proceedings of the International Conference on Learning Representations (ICLR 2021). 
-
-- J. Liu, M. Yan, and T. Zeng, [Surface-aware blind image deblurring](http://doi.org/10.1109/TPAMI.2019.2941472), IEEE Transactions on Pattern Analysis and Machine Intelligence, 43 (2021), 1041-1055. 
-
-- Z. Li and M. Yan, [A primal-dual algorithm with optimal stepsizes and its application in decentralized consensus optimization](http://doi.org/10.1007/s10444-020-09840-9), Advances in Computational Mathematics, 47 (2021), 9.
-
-- N. Sha, L. Shi, and M. Yan, [Fast algorithms for robust principal component analysis with an upper bound on the rank](http://doi.org/10.3934/ipi.2020067), Inverse Problems and Imaging, 15 (2021), 109-128.
-
-2020
-=== 
-- S. Alghunaim, M. Yan, and A. Sayed, [A multi-agent primal-dual strategy for composite optimization over distributed features](http://doi.org/10.23919/Eusipco47968.2020.9287370), In: Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020), 2095--2099. 
-
-- C. Wang, M. Yan, Y. Rahimi, and Y. Lou, [Accelerated schemes for the L1/L2 minimization](http://doi.org/10.1109/TSP.2020.2985298), IEEE Transactions on Signal Processing, 68 (2020), 2660-2669. 
-
-- P. Chatterjee, J. Nanzer, and M. Yan, Frequency consensus for distributed antenna arrays with half-duplex wireless coordination, In: Proceedings of the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting (IEEE APS/URSI 2020), accepted.
-
-- H. Ouassal, T. Rocco, M. Yan, and J. Nanzer, [Decentralized frequency synchronization in distributed antenna arrays with quantized frequency states and directed communications](http://doi.org/10.1109/TAP.2020.2977751), IEEE Transactions on Antennas and Propagation, 68 (2020), 5280-5288. 
-
-- X. Liu, Y. Li, J. Tang, and M. Yan, [A double residual compression algorithm for efficient distributed learning](http://proceedings.mlr.press/v108/liu20a.html), In: Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS 2020), 133-143. 	
-
-2019
-=== 
-- H. Lyu, N. Sha, S. Qin, M. Yan, Y. Xie, and R. Wang, [Manifold denoising by nonlinear robust principal component analysis](http://papers.nips.cc/paper/9495-manifold-denoising-by-nonlinear-robust-principal-component-analysis), In: Proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2019), 13390-13400. 
-
-- J. Liu, M. Yan, J. Zeng, and T. Zeng, [Image smoothing via gradient sparsity and surface area minimization](http://doi.org/10.1109/ICIP.2019.8804271), In: Proceedings of IEEE International Conference on Image Processing (ICIP 2019), 1114-1118. 		
-
-- N. Sha, M. Yan, and Y. Lin, [Efficient seismic denoising techniques using robust principal component analysis](http://doi.org/10.1190/segam2019-3216379.1), In: SEG Technical Program Expanded Abstracts (SEG 2019), 2543-2547.
-
-- Z. Li, W. Shi, and M. Yan, [A decentralized proximal-gradient method with network independent step-sizes and separated convergence rates](http://doi.org/10.1109/TSP.2019.2926022), IEEE Transactions on Signal Processing, 67 (2019), 4494-4506. ([Code](https://github.com/mingyan08/NIDS )) 		
-
-- Y. Hao, M. Yan, B. Heath, Y. Lei, and Y. Xie, [Fast and robust deconvolution of tumor infiltrating lymphocyte from expression profiles using least trimmed squares](http://doi.org/10.1371/journal.pcbi.1006976), PLOS Computational Biology, 15 (2019), e1006976. 
-
-- X. Huang, H. Yang, Y. Huang, L. Shi, F. He, A. Maier, and M. Yan, [Robust mixed one-bit compressive sensing](http://doi.org/10.1016/j.sigpro.2019.04.011), Signal Processing, 162 (2019), 161–168.
-
-- Z. Peng, Y. Xu, M. Yan and W. Yin, [On the convergence of asynchronous parallel iteration with unbounded delays](http://doi.org/10.1007/s40305-017-0183-1), Journal of the Operations Research Society of China, 7 (2019), 5-42. ([SN SharedIt Link](http://rdcu.be/AQG3))
-
-2018
-===
-- X. Huang, L. Shi, M. Yan and J. A.K. Suykens, [Pinball loss minimization for one-bit compressive sensing: Convex models and algorithms](http://doi.org/10.1016/j.neucom.2018.06.070), Neurocomputing, 314 (2018) 275-283. ([Code](http://www.esat.kuleuven.be/stadius/ADB/huang/downloads/1bitCSLab.zip))
-
-- F. He, X. Huang, Y. Liu, and M. Yan, [Fast signal recovery from saturated measurements by linear loss and nonconvex penalties](http://doi.org/10.1109/LSP.2018.2860242), IEEE Signal Processing Letters, 25 (2018) 1374-1378.
-
-- H. Tang, X. Lian, M. Yan, C. Zhang and J. Liu, [D2: Decentralized training over decentralized data](http://proceedings.mlr.press/v80/tang18a.html), In: Proceeding of International Conference on Machine Learning 2018, PMLR 80 (2018), 4848-4856.
-
-- M. Yan, [A new primal-dual algorithm for minimizing the sum of three functions with a linear operator](http://doi.org/10.1007/s10915-018-0680-3), Journal of Scientific Computing, 76 (2018), 1698-1717. ([SN SharedIt Link](http://rdcu.be/Ic0x)) ([Code](https://github.com/mingyan08/PD3O))
-
-- Y. Lou and M. Yan, [Fast l1-l2 minimization via a proximal operator](http://dx.doi.org/10.1007/s10915-017-0463-2), Journal of Scientific Computing, 74 (2018), 767-785. ([SN SharedIt Link](http://rdcu.be/s5YO)) ([Code](https://github.com/mingyan08/ProxL1-L2))
-
-- X. Huang and M. Yan, [Nonconvex penalties with analytical solutions for one-bit compressive sensing](http://doi.org/10.1016/j.sigpro.2017.10.023), Signal Processing, 144 (2018), 341-351. 
-
-2017
-=== 
-- Q. Xu, M. Yan, C. Huang, J. Xiong, Q. Huang and Y. Yao, [Exploring outliers in crowdsourced ranking for QoE](http://dx.doi.org/10.1145/3123266.3123267), In: Proceedings of the ACM International Conference on Multimedia (MM 2017), 1540-1548.
-
-
-2016
-=== 
-- M. Yan and W. Yin, [Self equivalence of the alternating direction method of multipliers](http://dx.doi.org/10.1007/978-3-319-41589-5_5),  in R. Glowinski, S. Osher and W. Yin (Eds.), Splitting Methods in Communication and Imaging, Science and Engineering (2016), New York, Springer, 165-194.
-
-- I. Baytas, M. Yan, A. Jain and J. Zhou, [Asynchronous multi-task learning](http://dx.doi.org/10.1109/ICDM.2016.0012), In: Proceedings of IEEE International Conference on Data Mining (ICDM 2016), 11-20.
-
-- L. Chen, M. Yan, C. Qian, N. Xi, Z. Zhou, Y. Yang, B. Song and L. Dong, [Nonconvex compressive video sensing](http://dx.doi.org/10.1117/1.JEI.25.6.063003), Journal of Electronic Imaging, 25 (2016), 063003.
-
-- H. Zhang, M. Yan and W. Yin, [One condition for solution uniqueness and robustness of both l1-synthesis and l1-analysis minimizations](http://dx.doi.org/10.1007/s10444-016-9467-y), Advances in Computational Mathematics, 42 (2016), 1381–1399. ([SN SharedIt Link](http://rdcu.be/mE5r)) 
-
-- Z. Peng, Y. Xu, M. Yan and W. Yin, [ARock: an algorithmic framework for asynchronous parallel coordinate updates](http://dx.doi.org/10.1137/15M1024950), SIAM Journal on Scientific Computing, 38 (2016), A2851-A2879. 
-
-- F. Li, S. Osher, J. Qin and M. Yan, [A multiphase image segmentation based on fuzzy membership functions and L1-norm fidelity](http://dx.doi.org/10.1007/s10915-016-0183-z), Journal of Scientific Computing, 69 (2016), 82-106. ([SN SharedIt Link](http://rdcu.be/mE5m)) 
-
-- Z. Peng, T. Wu, Y. Xu, M. Yan and W. Yin, [Coordinate friendly structures, algorithms and applications](http://dx.doi.org/10.4310/AMSA.2016.v1.n1.a2), Annals of Mathematical Sciences and Applications, 1 (2016), 57-119. 
-
-2015
-=== 
-- X. Huang, L. Shi and M. Yan, [Nonconvex sorted L1 minimization for sparse approximation](http://dx.doi.org/10.1007/s40305-014-0069-4), Journal of the Operations Research Society of China, 3 (2015), 207-229. ([SN SharedIt Link](http://rdcu.be/mEX5)) 
-
-2013
-===
-- Z. Peng, M. Yan and W. Yin, [Parallel and distributed sparse optimization](http://dx.doi.org/10.1109/ACSSC.2013.6810364), In: Proceeding of IEEE Asilomar Conference on Signals Systems and Computers, 2013, 659-664. 
-
-- M. Yan, A. Bui, J. Cong and L.A. Vese, [General convergent expectation maximization (EM)-type algorithms for image reconstruction](http://dx.doi.org/10.3934/ipi.2013.7.1007), Inverse Problems and Imaging, 7 (2013), 1007-1029. 
-
-- M. Yan, Y. Yang and S. Osher, [Exact low-rank matrix completion from sparsely corrupted entries via adaptive outlier pursuit](http://dx.doi.org/10.1007/s10915-013-9682-3), Journal of Scientific Computing, 56 (2013), 433-449. ([SN SharedIt Link](http://rdcu.be/mE5j)) [BibTex](http://dblp.uni-trier.de/rec/bibtex/journals/jscic/YanYO13)
-
-- M. Yan, [Restoration of images corrupted by impulse noise and mixed Gaussian impulse noise using blind inpainting](http://dx.doi.org/10.1137/12087178X), SIAM Journal on Imaging Sciences, 6 (2013), 1227-1245. [BibTex](http://dblp.uni-trier.de/rec/bibtex/journals/siamis/Yan13)
-
-- M. Yan, [Convergence analysis of SART: optimization and statistics](http://dx.doi.org/10.1080/00207160.2012.709933), International Journal of Computer Mathematics, 90 (2013), 30-47. [BibTex](http://dblp.uni-trier.de/rec/bibtex/journals/ijcm/Yan13)
-
-2012
-===
-- J. Chen, J. Cong, L. Vese, J. Villasenor, M. Yan and Y. Zou, [A hybrid architecture for compressive sensing 3D CT reconstruction](http://dx.doi.org/10.1109/JETCAS.2012.2221530) IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2 (2012), 616-625. [BibTex](http://dblp.uni-trier.de/rec/bibtex/journals/esticas/ChenCVVYZ12)
-
-- M. Yan, Y. Yang and S. Osher, [Robust 1-bit compressive sensing using adaptive outlier pursuit](http://dx.doi.org/10.1109/TSP.2012.2193397) IEEE Transactions on Signal Processing, 60 (2012), 3868-3875. ([Code](http://github.com/mingyan08/aop)) [BibTex](http://dblp.uni-trier.de/rec/bibtex/journals/tsp/YanYO12)
-
-- J. Chen, J. Cong, M. Yan and Y. Zou, [FPGA-accelerated 3D reconstruction using compressive sensing](http://dx.doi.org/10.1145/2145694.2145721), In: Proceeding of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA 2012), 163-166. [BibTex](http://dblp.uni-trier.de/rec/bibtex/conf/fpga/ChenCYZ12)
-
-2011
-=== 
-- M. Yan, [EM-type algorithms for image reconstruction with background emission and Poisson noise](http://dx.doi.org/10.1007/978-3-642-24028-7_4) In: Proceeding of 7th International Symposium on Visual Computing, LNCS 6938 (2011), 33-42. [BibTex](http://dblp.uni-trier.de/rec/bibtex/conf/isvc/Yan11)
-
-- M. Yan, J. Chen, L. A. Vese, J. Villasenor, A. Bui and J. Cong, [EM+TV based reconstruction for cone-beam CT with reduced radiation](http://dx.doi.org/10.1007/978-3-642-24028-7_1), In: Proceeding of 7th International Symposium on Visual Computing, LNCS 6938 (2011), 1-10. [BibTex](http://dblp.uni-trier.de/rec/bibtex/conf/isvc/YanCVVBC11)
-
-- J. Chen, M. Yan, L. A. Vese, J. Villasenor, A. Bui and J. Cong, EM+TV for reconstruction of cone-beam CT with curved detectors using GPU, In: Proceeding of International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2011, 363-366. 
-
-- M. Yan and L. A. Vese, [Expectation maximization and total variation based model for computed tomography reconstruction from undersampled data](http://dx.doi.org/10.1117/12.878238), In: Proceeding of SPIE Medical Imaging, Proceedings of SPIE, 7961 (2011), 79612X. 
-
-2008
-===
-- H. Han and M. Yan, [A mixed finite element method on a staggered mesh for Navier-Stokes equations](https://global-sci.org/intro/article_detail/jcm/8661.html), Journal of Computational Mathematics, 26 (2008), 816-824. 
-
-- H. Han, M. Yan and C. Wu, [An energy regularization method for the backward diffusion problem and its applications to image deblurring](https://www.global-sci.com/intro/article_detail/cicp/7786.html), Communications in Computational Physics, 4 (2008), 177-194. 
-
-
-Thesis
-===
-- M. Yan, Image and Signal Processing with Non-Gaussian Noise: EM-Type Algorithms and Adaptive Outlier Pursuit, Department of Mathematics, University of California, Los Angeles, 2012. 
-
+* X. Li and H. Lei. Multiscale Modeling of Sickle
+Cell Anemia. In W. Andreoni and S. Yip, editors, *Handbook of Materials
+Modeling: Applications: Current and Emerging Materials* 1–18. Springer, 2018
+[[link]](https://doi.org/10.1007/978-3-319-50257-1_67-1).
 

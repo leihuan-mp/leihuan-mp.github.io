@@ -9,32 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-* University of California, Los Angeles, Department of Mathematics
-  * Ph.D. in Mathematics (2012)
-  * Dissertation: Image and Signal Processing with Non-Gaussian Noise: EM-Type Algorithms and Adaptive Outlier Pursuit
-  * Advisor: Professor [Luminita A. Vese](https://www.math.ucla.edu/~lvese/)
+* Ph.D. in Applied Mathematics, Brown University, 2012. 
+  * Advisor: Dr. [George Em Karniadakis](https://www.cfm.brown.edu/faculty/gk/) 
 
-* University of Science and Technology of China, Department of Mathematics
-  * M.S. in Mathematics (2008)
-  * B.S. in Mathematics (2005)
 
-Work experience
+Professional Experience
 ======
-* The Chinese University of Hong Kong, Shenzhen, School of Data Science
-  * Associate Professor (2022-present)
 
-* Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Mathematics
-  * Associate Professor (2021-present) (on leave from August 2022) 
-  * Assistant Professor (2015 - 2021)
+<!--
 
-* University of California, Los Angeles, Department of Mathematics
-  * Assistant Adjunct Professor (2014 - 2015)
-  * Postdoctoral Scholar (2013 - 2014)
-  * Mentor: Professor [Wotao Yin](https://wotaoyin.mathopt.com/)
+* Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Statistics and Probability
+  * Assistant Professor (2019 - present)
 
-* Rice University, Department of Computational and Applied Mathematics
-  * Postdoc Fellow (2012 - 2013)
-  * Mentor: Professor [Wotao Yin](https://wotaoyin.mathopt.com/)
+* Pacific Northwest National Laboratory
+  * Scientist (2015 - 2019)
+  * Postdoctoral Associate (2013 - 2015) Mentor: Dr. [Nathan A. Baker](https://www.linkedin.com/in/nathanandrewbaker/)
+
+* Brown University, Division of Applied Mathematics
+  * Postdoctoral Associate (2012 - 2013) Mentor: Dr. [George Em Karniadakis](https://www.cfm.brown.edu/faculty/gk/)
+-->  
+
+* Assistant Professor, Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Statistics and Probability, 2019 - present
+
+* Scientist, Pacific Northwest National Laboratory, 2015 - 2019
+
+* Postdoctoral Associate, Pacific Northwest National Laboratory, 2013 - 2015, Mentor: Dr. [Nathan A. Baker](https://www.linkedin.com/in/nathanandrewbaker/)
+
+* Postdoctoral Associate, Brown University, 2012 - 2013, Mentor: Dr. [George Em Karniadakis](https://www.cfm.brown.edu/faculty/gk/)
+
+
+
+Awards
+======
+
+* National Science Foundation, CAREER Award, 2021
+
+* Dissertation Fellowship, Brown University, 2012
+
+
+
+
+
+
+
+
 
 
 

@@ -42,13 +42,13 @@ Fluid Model with Molecular Fidelity. *Phys. Rev. E* 102: 043309, 2020
 Modeling with the Generalized Langevin Equation. *J. Comput. Phys.*
 418: 109633–109641, 2020 [[link]](https://doi.org/10.1016/j.jcp.2020.109633).
 
-* P. Stinis, H. Lei, J. Li, and H. Wan. “Improving Solution
+* P. Stinis, H. Lei, J. Li, and H. Wan. Improving Solution
 Accuracy and Convergence for Stochastic Physics Parameterizations with
-Colored Noise.” *Mon. Weather Rev.* 148 (2): 2251–63, 2020
+Colored Noise. *Mon. Weather Rev.* 148 (2): 2251–63, 2020
 [[link]](https://doi.org/10.1175/MWR-D-19-0178.1).
 
-* J. Lu, F. Liu, L. R. Leung, and H. Lei. “Neutral Modes of Surface
-Temperature and the Optimal Ocean Thermal Forcing for Global Cooling.”
+* J. Lu, F. Liu, L. R. Leung, and H. Lei. Neutral Modes of Surface
+Temperature and the Optimal Ocean Thermal Forcing for Global Cooling.
 *NPJ Clim. Atmos. Sci.* 3 (1): 9, 2020
 [[link]](https://doi.org/10.1038/s41612-020-0112-6).
 
@@ -72,8 +72,8 @@ Parameter Uncertainty in Biomolecular Solvation Energy Calculations.”
 [[link]](https://doi.org/10.1021/acs.jctc.7b00905).
 
 
-* H. Lei, X. Yang, Z. Li, and G. E. Karniadakis. “Systematic
-Parameter Inference in Stochastic Mesoscopic Modeling.” *J. Comput.
+* H. Lei, X. Yang, Z. Li, and G. E. Karniadakis. Systematic
+Parameter Inference in Stochastic Mesoscopic Modeling. *J. Comput.
 Phys.* 330 (4): 571–593, 2017 [[link]](https://doi.org/10.1016/j.jcp.2016.10.029).
 
 
@@ -161,8 +161,8 @@ Comput. Phys.* 230 (10): 3765–3779, 2011
 [[link]](https://doi.org/https://doi.org/10.1016/j.jcp.2011.02.003).
 
 
-* H. Lei, B. Caswell, and G. E. Karniadakis. “Direct Construction
-of Mesoscopic Models from Microscopic Simulations.” *Phys. Rev. E* 81:
+* H. Lei, B. Caswell, and G. E. Karniadakis. Direct Construction
+of Mesoscopic Models from Microscopic Simulations. *Phys. Rev. E* 81:
 026704, 2010 [[link]](https://doi.org/10.1103/PhysRevE.81.026704).
 
 Book Chapters

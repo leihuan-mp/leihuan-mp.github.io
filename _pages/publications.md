@@ -66,8 +66,8 @@ Geometries. *Appl. Math. Mech.* 39 (1): 125–152, 2018.
 
 
 * X. Yang<sup>\*</sup>, H. Lei<sup>\*</sup>, P. Gao<sup>\*</sup>, D. G.
-Thomas, D. L. Mobley, and N. A. Baker. “Atomic Radius and Charge
-Parameter Uncertainty in Biomolecular Solvation Energy Calculations.”
+Thomas, D. L. Mobley, and N. A. Baker. Atomic Radius and Charge
+Parameter Uncertainty in Biomolecular Solvation Energy Calculations.
 *J. Chem. Theory Comput.* 14 (2): 759–767, 2018
 [[link]](https://doi.org/10.1021/acs.jctc.7b00905).
 

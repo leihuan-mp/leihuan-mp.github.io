@@ -9,19 +9,26 @@ author_profile: true
 
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
+* P. Ge, L. Zhang, and H. Lei. Machine learning assisted coarse-grained molecular dynamics modeling of meso-scale interfacial fluids.  
+*arXiv Preprint:arXiv:2210.12482*, 2022 [[arXiv]](https://arxiv.org/abs/2210.12482).
+
+
+* Z. She, P. Ge, and H. Lei. Data-driven construction of stochastic reduced dynamics encoded with non-Markovian features.  
+*arXiv Preprint:arXiv:2210.05814*, 2022 [[arXiv]](https://arxiv.org/abs/2210.05814).
+
 
 * L. Fang , P. Ge, L. Zhang, W. E, and H. Lei.  DeePN<sup>2</sup>: A
 Deep Learning-Based non-Newtonian Hydrodynamic Model. *Journal of 
 Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115).
 
 
-* Y. Zhu, and H. Lei. 2022. Effective Mori-Zwanzig Equation for the
-Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982 [[link]](https://doi.org/10.3934/dcdss.2021096).
+* Y. Zhu and H. Lei. Effective Mori-Zwanzig Equation for the
+Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982, 2022 [[link]](https://doi.org/10.3934/dcdss.2021096).
 
 
 * Y. Zhu, H. Lei, and C. Kim.  Generalized Second
 Fluctuation-Dissipation Theorem in the Nonequilibrium Steady State:
-Theory and Applications, 2021. *arXiv Preprint:arXiv:2104.05222* [[arXiv]](https://arxiv.org/abs/2104.05222).
+Theory and Applications. *arXiv Preprint:arXiv:2104.05222*, 2021 [[arXiv]](https://arxiv.org/abs/2104.05222).
 
 
 * H. Lei and X. Li.  Petrov–Galerkin Methods for the Construction

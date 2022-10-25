@@ -42,7 +42,7 @@ Research Interests
 
 Opening
 ===
-My group is recruiting Ph.D. students, Postdocs, and Visiting students [(more info)]({{ site.url }}{{ site.baseurl }}/position/). If you are interested, please [email me](leihuan@msu.edu). 
+My group is recruiting Ph.D. students, Postdocs, and Visiting students [(more info)]({{ site.url }}{{ site.baseurl }}/position/). If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
 
 <!--
 We are grateful for grant support 

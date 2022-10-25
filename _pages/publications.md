@@ -53,7 +53,7 @@ Temperature and the Optimal Ocean Thermal Forcing for Global Cooling.
 [[link]](https://doi.org/10.1038/s41612-020-0112-6).
 
 
-* H. Lei, J. Li, P. Gao, P. Stinis, and N.A. Baker. A Data-Driven
+* H. Lei, J. Li, P. Gao, P. Stinis, and N. A. Baker. A Data-Driven
 Framework for Sparsity-Enhanced Surrogates with Arbitrary Mutually
 Dependent Randomness. *Comput. Methods Appl. Mech. Eng.* 350: 199–227, 2019
 [[link]](https://doi.org/https://doi.org/10.1016/j.cma.2019.03.014).

@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University. 
-I also hold a joint position in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/).  My research interests lie in applied mathematics and 
-scientific computing, in particular, multi-scale modeling and model reduction with applications to fluid physics, materials science, and 
-biophysics. Currently, my group is devoted to developing data-driven algorithms to learn reliable and physics-interpretable models of 
-meso-scale fluids and hydrodynamic transport processes directly from the first-principle-based descriptions.  
+I also hold a joint position in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/).  
 
+My research interests lie in applied mathematics and scientific computing, in particular, multi-scale modeling with applications to fluid physics, materials science, and biophysics. The research goal is to establish accurate modeling of multi-scale systems relevant to meso-scale transport, non-Newtonian hydrodynamics, and kinetic transport processes arising from various science and engineering applications. For such problems, the multi-scale and high-dimensional nature imposes a fundamental challenge; empirical models based on ad-hoc closure assumptions often show limitations. Currently, my group is devoted to constructing machine-learning based models for such systems directly from the first-principle-based descriptions. In particular, we focus on developing numerical methods to learn reliable and numerically-stable models that faithfully entail the micro-scale interactions, retain physical interpretation, and respect physical constraints. The long-term goal is to achieve predictive modeling of these multi-scale systems beyond phenomenologically understanding and establish integrated control across multiple scales.
 
 <!--Associate Professor\
 [School of Data Science](https://sds.cuhk.edu.cn)\
@@ -36,8 +34,8 @@ Research Interests
 ===
 + Machine learning methods for multi-scale modeling 
 + Model reduction and stochastic simulation
++ Scientific machine-learning 
 + Fluid physics
-+ Scientific computing
 
 
 Opening

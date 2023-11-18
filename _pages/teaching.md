@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* [CMSE 201](https://msu-cmse-courses.github.io/cmse201-F22-jb/intro.html): Computational Modeling and Data Analysis I, Fall 2022
+* [CMSE 201](https://msu-cmse-courses.github.io/cmse201-F22-jb/intro.html): Computational Modeling and Data Analysis I, Spring 2023
 
 Previous Teaching
 ======

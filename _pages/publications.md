@@ -9,6 +9,26 @@ author_profile: true
 
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
+
+* L. Lyu and H. Lei. Consensus-based construction of high-dimensional free energy surface. *arXivpreprint:arXiv:2311.05009*, 2023 [[arXiv]](https://arxiv.org/abs/2311.05009).
+
+
+* P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *arXiv preprint:arXiv:2310.18582*, 2023  [[arXiv]](https://arxiv.org/abs/2310.18582).
+
+
+* L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
+
+
+
+* Y. Zhu, H. Lei, and C. Kim.  Generalized Second Fluctuation-Dissipation Theorem in the Nonequilibrium Steady State: Theory and Applications. *arXiv Preprint:arXiv:2104.05222*, 2021 [[arXiv]](https://arxiv.org/abs/2104.05222).
+
+
+* Y. Zhu, H. Lei, and C. Kim. General validity of the second fluctuation-dissipation theorem in the non-equilibrium steady state: Theory and applications. *Physica Scripta*, 98(11):115402, 2023 [[link]](https://doi.org/10.1088/1402-4896/acfce5).
+
+
+* W. E, H. Lei, P. Xie, and L. Zhang. Machine learning-assisted multi-scale modeling. *Journal of Mathematical Physics*, 64(7):071101, 2023 [[link]](https://doi.org/10.1063/5.0149861).
+
+
 * P. Ge, L. Zhang, and H. Lei. Machine learning assisted coarse-grained molecular dynamics modeling of meso-scale interfacial fluids. *J. Chem. Phys.* 158:64104, 2023 [[link]](https://doi.org/10.1063/5.0131567).
 
 
@@ -23,10 +43,6 @@ Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115
 * Y. Zhu and H. Lei. Effective Mori-Zwanzig Equation for the
 Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982, 2022 [[link]](https://doi.org/10.3934/dcdss.2021096).
 
-
-* Y. Zhu, H. Lei, and C. Kim.  Generalized Second
-Fluctuation-Dissipation Theorem in the Nonequilibrium Steady State:
-Theory and Applications. *arXiv Preprint:arXiv:2104.05222*, 2021 [[arXiv]](https://arxiv.org/abs/2104.05222).
 
 
 * H. Lei and X. Li.  Petrov–Galerkin Methods for the Construction

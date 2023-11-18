@@ -9,13 +9,14 @@ author_profile: true
 
 Postdoc Associate
 ===
-* Lidong Fang
+* Yue Zhao 
 
 Graduate Students
 ===
 * Pei Ge
 * Liyao Lyu
 * Zhiyuan She
+* Haishen Dai
 
 Undergraduate Students
 =====

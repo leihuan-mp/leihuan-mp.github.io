@@ -9,10 +9,10 @@ author_profile: true
 
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
-* P. Ge, L. Zhang, and H. Lei. Machine learning assisted coarse-grained molecular dynamics modeling of meso-scale interfacial fluids. *arXiv Preprint:arXiv:2210.12482*, 2022 [[arXiv]](https://arxiv.org/abs/2210.12482).
+* P. Ge, L. Zhang, and H. Lei. Machine learning assisted coarse-grained molecular dynamics modeling of meso-scale interfacial fluids. *J. Chem. Phys.* 158:64104, 2023 [[link]](https://doi.org/10.1063/5.0131567).
 
 
-* Z. She, P. Ge, and H. Lei. Data-driven construction of stochastic reduced dynamics encoded with non-Markovian features. *arXiv Preprint:arXiv:2210.05814*, 2022 [[arXiv]](https://arxiv.org/abs/2210.05814).
+* Z. She, P. Ge, and H. Lei. Data-driven construction of stochastic reduced dynamics encoded with non-Markovian features. *J. Chem. Phys.* 158:034102, 2023 [[link]](https://doi.org/10.1063/5.0130033).
 
 
 * L. Fang , P. Ge, L. Zhang, W. E, and H. Lei.  DeePN<sup>2</sup>: A

@@ -20,9 +20,6 @@ author_profile: true
 
 
 
-* Y. Zhu, H. Lei, and C. Kim.  Generalized Second Fluctuation-Dissipation Theorem in the Nonequilibrium Steady State: Theory and Applications. *arXiv Preprint:arXiv:2104.05222*, 2021 [[arXiv]](https://arxiv.org/abs/2104.05222).
-
-
 * Y. Zhu, H. Lei, and C. Kim. General validity of the second fluctuation-dissipation theorem in the non-equilibrium steady state: Theory and applications. *Physica Scripta*, 98(11):115402, 2023 [[link]](https://doi.org/10.1088/1402-4896/acfce5).
 
 

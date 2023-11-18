@@ -10,7 +10,7 @@ author_profile: true
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
 
-* L. Lyu and H. Lei. Consensus-based construction of high-dimensional free energy surface. *arXivpreprint:arXiv:2311.05009*, 2023 [[arXiv]](https://arxiv.org/abs/2311.05009).
+* L. Lyu and H. Lei. Consensus-based construction of high-dimensional free energy surface. *arXivpreprint:arXiv:2311.05009*, 2023  [[arXiv]](https://arxiv.org/abs/2311.05009).
 
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *arXiv preprint:arXiv:2310.18582*, 2023  [[arXiv]](https://arxiv.org/abs/2310.18582).

@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/).  
 
-My research focuses on computational mathematics, particularly in **scientific machine learning** (SciML) and **multi-scale modeling** related to fluid physics, materials science, and biophysics. As part of the broader field of **AI for Science**, I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
+My research focuses on **computational mathematics**, particularly in **scientific machine learning** (SciML) and **multi-scale modeling** related to fluid physics, materials science, and biophysics. As part of the broader field of **AI for Science**, I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
 
 Research Overview
 ===

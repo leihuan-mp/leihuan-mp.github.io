@@ -12,9 +12,6 @@ I am an Assistant Professor in the [Department of Computational Mathematics, Sci
 
 My research focuses on computational mathematics, particularly on developing numerical methods for learning partial differential equation (PDE) and stochastic differential equation (SDE) models arising from multi-scale problems. I am interested in designing structure-preserving algorithms that retain essential mathematical properties, such as conservation laws, variational structures, and physical constraints. A central aspect of my work is integrating scientific machine learning (SciML) with numerical analysis to construct accurate and physically interpretable PDE and SDE models of multi-scale systems directly from first-principle descriptions, where conventional approaches often show limitations. 
 
-While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications.
-
-
 <!--
 My research focuses on computational mathematics, particularly in scientific machine learning (SciML) and multi-scale modeling related to fluid physics, materials science, and biophysics. I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
 -->
@@ -50,14 +47,14 @@ Daoyuan Building 321A\
 
 Research Interests
 ===
-+ Numerical methods for multi-scale modeling
-+ Structure-preserving PDE models and algorithms
-+ Model reduction and stochastic simulation methods
-+ Scientific machine-learning in computational mathematics
++ Multi-scale modeling
++ Structure-preserving PDE models and numerical schemes
++ Model reduction and stochastic simulations 
++ Scientific machine-learning 
 
 Representative publications
 ===
-* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024  [[arXiv]](https://arxiv.org/abs/2409.11519).
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024 (under review by SIAM Multiscale Modeling & Simulation)  [[arXiv]](https://arxiv.org/abs/2409.11519).
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 
@@ -69,13 +66,13 @@ Representative publications
 * H. Lei, L. Wu, and W. E. Machine Learning Based non-Newtonian Fluid Model with Molecular Fidelity. *Phys. Rev. E* 102: 043309, 2020 [[link]](https://doi.org/10.1103/PhysRevE.102.043309).
 -->
 
-* H. Lei, N. A. Baker, and X. Li.  Data-Driven Parameterization of the Generalized Langevin Equation. *Proc. Natl. Acad. Sci.* 113 (50):14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
+* H. Lei, N. A. Baker, and X. Li.  Data-driven parameterization of the generalized Langevin equation. *Proc. Natl. Acad. Sci.* 113 (50):14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
 
 
 
 Opening
 ===
-My group is recruiting Ph.D. students, Postdocs, and Visiting students [(more info)]({{ site.url }}{{ site.baseurl }}/position/). If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
+My group is recruiting one Ph.D. student [(more info)]({{ site.url }}{{ site.baseurl }}/position/) starting from Fall 2025 or Spring 2026. While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications. If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
 
 <!--
 We are grateful for grant support 

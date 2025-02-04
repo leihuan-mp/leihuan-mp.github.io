@@ -72,7 +72,7 @@ Representative publications
 
 Opening
 ===
-My group is recruiting one Ph.D. student [(more info)]({{ site.url }}{{ site.baseurl }}/position/) starting from Fall 2025 or Spring 2026. While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications. If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
+One Ph.D. position is available starting from Fall 2025 or Spring 2026 [(more info)]({{ site.url }}{{ site.baseurl }}/position/). While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications. If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
 
 <!--
 We are grateful for grant support 

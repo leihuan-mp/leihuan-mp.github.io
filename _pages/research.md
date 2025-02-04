@@ -18,8 +18,9 @@ My research interests lie in applied mathematics and scientific computing, in pa
 
 My research focuses on computational mathematics, particularly on developing numerical methods for learning partial differential equation (PDE) and stochastic differential equation (SDE) models arising from multi-scale problems. I am interested in designing structure-preserving algorithms that retain essential mathematical properties, such as conservation laws, variational structures, and physical constraints. A central aspect of my work is integrating scientific machine learning (SciML) with numerical analysis to construct accurate and physically interpretable PDE and SDE models of multi-scale systems directly from first-principle descriptions, where conventional approaches often show limitations. 
 
+<!---
 While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications.
-
+-->
 
 
 <!--
@@ -36,11 +37,10 @@ My research aims to address these challenges by developing numerical algorithms 
 
 Research Interests
 ===
-+ Numerical methods for multi-scale modeling
-+ Structure-preserving PDE models and algorithms
-+ Model reduction and stochastic simulation methods
-+ Scientific machine-learning in computational mathematics
-
++ Multi-scale modeling
++ Structure-preserving PDE models and numerical schemes
++ Model reduction and stochastic simulations 
++ Scientific machine-learning 
 
 
 We are grateful for grant support 

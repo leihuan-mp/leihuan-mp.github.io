@@ -16,8 +16,13 @@ My research interests lie in applied mathematics and scientific computing, in pa
 + Fluid physics
 -->
 
-My research focuses on **computational mathematics**, particularly in **scientific machine learning** (SciML) and **multi-scale modeling** related to fluid physics, materials science, and biophysics. As part of the broader field of **AI for Science**, I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
+My research focuses on computational mathematics, particularly on developing numerical methods for learning partial differential equation (PDE) and stochastic differential equation (SDE) models arising from multi-scale problems. I am interested in designing structure-preserving algorithms that retain essential mathematical properties, such as conservation laws, variational structures, and physical constraints. A central aspect of my work is integrating scientific machine learning (SciML) with numerical analysis to construct accurate and physically interpretable PDE and SDE models of multi-scale systems directly from first-principle descriptions, where conventional approaches often show limitations. 
 
+While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications.
+
+
+
+<!--
 Research Overview
 ===
 
@@ -26,15 +31,15 @@ Accurate modeling of multi-scale systems has been a long-standing problem in bot
 Recent progress in the machine learning (ML) approach, with its unprecedented capability to approximate high-dimensional functions, has opened up many new possibilities in computational science.  Meanwhile, ML is often perceived as a "black-box" approach lacking fundamental principles. This has been an essential obstacle to making further progress in physical modeling and scientific computing. To construct truly reliable ML-models for multi-scale problems, fundamental challenges remain: (1) How to effectively transfer micro-scale physical laws across scales while retaining physical interpretability; (2) How to strictly preserve the physical constraints and mathematical structures of the ML-based partial and ordinary differential equations (PDEs and ODEs) that ensures the well-posedness and numerical stability? 
 
 My research aims to address these challenges by developing numerical algorithms for constructing accurate ML-based models of multi-scale systems directly from first-principle-based descriptions. As part of the AI for Science initiative, a key objective is to retain the micro-model fidelity while strictly preserving canonical structures and symmetry constraints. Examples include hydrodynamics of multi-scale fluids, kinetic transport, and mesoscale stochastic reduced dynamics. The long-term goal is to enable predictive modeling of multi-scale systems that extends beyond phenomenological understanding, facilitating integrated control across multiple scales.
+-->
 
 
 Research Interests
 ===
-+ Scientific machine-learning 
-+ Multi-scale modeling 
-+ Model reduction and stochastic simulation
-
-
++ Numerical methods for multi-scale modeling
++ Structure-preserving PDE models and algorithms
++ Model reduction and stochastic simulation methods
++ Scientific machine-learning in computational mathematics
 
 
 

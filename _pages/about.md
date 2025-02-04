@@ -8,10 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/).  
+I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/). I received my Ph.D. in Applied Mathematics from Brown University under supervision of Prof. George Karniadakis. 
 
-My research focuses on **computational mathematics**, particularly in **scientific machine learning** (SciML) and **multi-scale modeling** related to fluid physics, materials science, and biophysics. As part of the broader field of **AI for Science**, I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
+My research focuses on computational mathematics, particularly on developing numerical methods for learning partial differential equation (PDE) and stochastic differential equation (SDE) models arising from multi-scale problems. I am interested in designing structure-preserving algorithms that retain essential mathematical properties, such as conservation laws, variational structures, and physical constraints. A central aspect of my work is integrating scientific machine learning (SciML) with numerical analysis to construct accurate and physically interpretable PDE and SDE models of multi-scale systems directly from first-principle descriptions, where conventional approaches often show limitations. 
 
+While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications.
+
+
+<!--
+My research focuses on computational mathematics, particularly in scientific machine learning (SciML) and multi-scale modeling related to fluid physics, materials science, and biophysics. I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
+-->
+
+<!--
 Research Overview
 ===
 
@@ -20,7 +28,7 @@ Accurate modeling of multi-scale systems has been a long-standing problem in bot
 Recent progress in the machine learning (ML) approach, with its unprecedented capability to approximate high-dimensional functions, has opened up many new possibilities in computational science.  Meanwhile, ML is often perceived as a "black-box" approach lacking fundamental principles. This has been an essential obstacle to making further progress in physical modeling and scientific computing. To construct truly reliable ML-models for multi-scale problems, fundamental challenges remain: (1) How to effectively transfer micro-scale physical laws across scales while retaining physical interpretability; (2) How to strictly preserve the physical constraints and mathematical structures of the ML-based partial and ordinary differential equations (PDEs and ODEs) that ensures the well-posedness and numerical stability? 
 
 My research aims to address these challenges by developing numerical algorithms for constructing accurate ML-based models of multi-scale systems directly from first-principle-based descriptions. As part of the AI for Science initiative, a key objective is to retain the micro-model fidelity while strictly preserving canonical structures and symmetry constraints. Examples include hydrodynamics of multi-scale fluids, kinetic transport, and mesoscale stochastic reduced dynamics. The long-term goal is to enable predictive modeling of multi-scale systems that extends beyond phenomenological understanding, facilitating integrated control across multiple scales.
-
+-->
 
 <!--Associate Professor\
 [School of Data Science](https://sds.cuhk.edu.cn)\
@@ -39,15 +47,17 @@ Daoyuan Building 321A\
 <h2 style="color:red;">Opening</h2> -->
 
 
+
 Research Interests
 ===
-+ Scientific machine-learning 
-+ Multi-scale modeling 
-+ Model reduction and stochastic simulation
-
++ Numerical methods for multi-scale modeling
++ Structure-preserving PDE models and algorithms
++ Model reduction and stochastic simulation methods
++ Scientific machine-learning in computational mathematics
 
 Representative publications
 ===
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024  [[arXiv]](https://arxiv.org/abs/2409.11519).
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 
@@ -55,7 +65,9 @@ Representative publications
 
 * L. Fang , P. Ge, L. Zhang, W. E, and H. Lei.  DeePN<sup>2</sup>: A Deep Learning-Based non-Newtonian Hydrodynamic Model. *Journal of Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115).
 
+<!--
 * H. Lei, L. Wu, and W. E. Machine Learning Based non-Newtonian Fluid Model with Molecular Fidelity. *Phys. Rev. E* 102: 043309, 2020 [[link]](https://doi.org/10.1103/PhysRevE.102.043309).
+-->
 
 * H. Lei, N. A. Baker, and X. Li.  Data-Driven Parameterization of the Generalized Langevin Equation. *Proc. Natl. Acad. Sci.* 113 (50):14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
 

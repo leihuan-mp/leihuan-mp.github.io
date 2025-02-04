@@ -9,6 +9,7 @@ author_profile: true
 
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
+
 * L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024  [[arXiv]](https://arxiv.org/abs/2409.11519).
 
 
@@ -128,7 +129,6 @@ Karniadakis. Patient-Specific Blood Rheology in Sickle-Cell
 Anaemia. *Interface Focus* 6 (1): 20150065, 2015
 [[link]](https://doi.org/10.1098/rsfs.2015.0065).
 
-
 * X. Li, Z. Peng, H. Lei, M. Dao, and G. E. Karniadakis.  Probing
 Red Blood Cell Mechanics, Rheology and Dynamics with a Two-Component
 Multi-Scale Model. *Phil. Trans. R. Soc. A* 372 (2021): 20130389,  2014
@@ -180,6 +180,8 @@ Comput. Phys.* 230 (10): 3765–3779, 2011
 of Mesoscopic Models from Microscopic Simulations. *Phys. Rev. E* 81:
 026704, 2010 [[link]](https://doi.org/10.1103/PhysRevE.81.026704).
 
+<!---
+
 Book Chapters
 ===
 * H. Lei and G. E. Karniadakis. Multiscale Modeling of Sickle
@@ -191,3 +193,4 @@ Cell Anemia. In W. Andreoni and S. Yip, editors, *Handbook of Materials
 Modeling: Applications: Current and Emerging Materials* 1–18. Springer, 2018
 [[link]](https://doi.org/10.1007/978-3-319-50257-1_67-1).
 
+-->

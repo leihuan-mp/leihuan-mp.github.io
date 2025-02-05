@@ -169,13 +169,11 @@ Discovery* 33: 1–7, 2012 [[link]](https://doi.org/10.1145/2335755.2335829).
 * D. A. Fedosov, H. Lei, B. Caswell, S. Suresh, and G. E. Karniadakis. Multiscale Modeling of Red Blood Cell Mechanics and Blood Flow in Malaria. *PLoS Comput. Biol.* 7 (12): e1002270, 2011 [[link]](https://doi.org/10.1371/journal.pcbi.1002270).
 --->
 
-* H. Lei, D. A. Fedosov, and G. E. Karniadakis. Time-Dependent and Outflow Boundary Conditions for Dissipative Particle Dynamics. *J.
-Comput. Phys.* 230 (10): 3765–3779, 2011
+* H. Lei, D. A. Fedosov, and G. E. Karniadakis. Time-Dependent and Outflow Boundary Conditions for Dissipative Particle Dynamics. *J. Comput. Phys.* 230 (10): 3765–3779, 2011
 [[link]](https://doi.org/https://doi.org/10.1016/j.jcp.2011.02.003).
 
 
-* H. Lei, B. Caswell, and G. E. Karniadakis. Direct Construction
-of Mesoscopic Models from Microscopic Simulations. *Phys. Rev. E* 81:
+* H. Lei, B. Caswell, and G. E. Karniadakis. Direct Construction of Mesoscopic Models from Microscopic Simulations. *Phys. Rev. E* 81:
 026704, 2010 [[link]](https://doi.org/10.1103/PhysRevE.81.026704).
 
 <!---

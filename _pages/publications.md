@@ -10,7 +10,9 @@ author_profile: true
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
 
-* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024  [[arXiv]](https://arxiv.org/abs/2409.11519).
+Selected Publications
+===
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024 (under review by SIAM Multiscale Modeling & Simulation) [[arXiv]](https://arxiv.org/abs/2409.11519).
 
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
@@ -20,7 +22,6 @@ author_profile: true
 
 
 * L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
-
 
 
 * Y. Zhu, H. Lei, and C. Kim. General validity of the second fluctuation-dissipation theorem in the non-equilibrium steady state: Theory and applications. *Physica Scripta*, 98(11):115402, 2023 [[link]](https://doi.org/10.1088/1402-4896/acfce5).
@@ -40,13 +41,10 @@ Deep Learning-Based non-Newtonian Hydrodynamic Model. *Journal of
 Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115).
 
 
-* Y. Zhu and H. Lei. Effective Mori-Zwanzig Equation for the
-Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982, 2022 [[link]](https://doi.org/10.3934/dcdss.2021096).
+* Y. Zhu and H. Lei. Effective Mori-Zwanzig Equation for the Reduced-Order Modeling of Stochastic Systems. *Discrete Contin Dyn Syst - S* 15 (4): 959–982, 2022 [[link]](https://doi.org/10.3934/dcdss.2021096).
 
 
-
-* H. Lei and X. Li.  Petrov–Galerkin Methods for the Construction
-of non-Markovian Dynamics Preserving Nonlocal Statistics. *J. Chem. Phys.* 154 (18): 184108, 2021 [[link]](https://doi.org/10.1063/5.0042679).
+* H. Lei and X. Li.  Petrov–Galerkin Methods for the Construction of non-Markovian Dynamics Preserving Nonlocal Statistics. *J. Chem. Phys.* 154 (18): 184108, 2021 [[link]](https://doi.org/10.1063/5.0042679).
 
 
 * H. Lei, L. Wu, and W. E. Machine Learning Based non-Newtonian
@@ -124,6 +122,7 @@ Modeling Nanoscale Hydrodynamics by Smoothed Dissipative Particle
 Dynamics. *J. Chem. Phys.* 142 (19): 194504, 2015 [[link]](https://doi.org/10.1063/1.4921222).
 
 
+<!---
 * X. Li, E. Du, H. Lei, Y. Tang, M. Dao, S. Suresh, and G. E.
 Karniadakis. Patient-Specific Blood Rheology in Sickle-Cell
 Anaemia. *Interface Focus* 6 (1): 20150065, 2015
@@ -133,7 +132,7 @@ Anaemia. *Interface Focus* 6 (1): 20150065, 2015
 Red Blood Cell Mechanics, Rheology and Dynamics with a Two-Component
 Multi-Scale Model. *Phil. Trans. R. Soc. A* 372 (2021): 20130389,  2014
 [[link]](https://doi.org/10.1098/rsta.2013.0389).
-
+--->
 
 * Z. Li, Y. Tang, H. Lei, B. Caswell, and G. E. Karniadakis.
 Energy-Conserving Dissipative Particle Dynamics with
@@ -151,6 +150,7 @@ Flow in Small Tubes: Quantifying the Transition to the Non-Continuum
 Regime. *J. Fluid Mech.* 722: 214–39, 2013
 [[link]](https://doi.org/10.1017/jfm.2013.91).
 
+<!---
 * H. Lei and G. E. Karniadakis. Predicting the Morphology of
 Sickle Red Blood Cells Using Coarse-Grained Models of Intracellualr
 Aligned Hemoglobin Polymers. *Soft Matter* 8: 4507–16, 2012
@@ -160,18 +160,16 @@ Aligned Hemoglobin Polymers. *Soft Matter* 8: 4507–16, 2012
 Hemodynamic Characteristics of Sickle Cell Anemia. *Biophys. J.* 102:
 185–194, 2012 [[link]](https://doi.org/10.1016/j.bpj.2011.12.006).
 
+
 * L. Grinberg, M. Deng, H. Lei, J. A. Insley, and G. E. Karniadakis.
 Multiscale Simulations of Blood Flow: From a Platelet to an
 Artery. *Proc. of Conference of the Extreme Science and Engineering
 Discovery* 33: 1–7, 2012 [[link]](https://doi.org/10.1145/2335755.2335829).
 
-* D. A. Fedosov, H. Lei, B. Caswell, S. Suresh, and G. E. Karniadakis.
-Multiscale Modeling of Red Blood Cell Mechanics and Blood Flow in
-Malaria. *PLoS Comput. Biol.* 7 (12): e1002270, 2011 [[link]](https://doi.org/10.1371/journal.pcbi.1002270).
+* D. A. Fedosov, H. Lei, B. Caswell, S. Suresh, and G. E. Karniadakis. Multiscale Modeling of Red Blood Cell Mechanics and Blood Flow in Malaria. *PLoS Comput. Biol.* 7 (12): e1002270, 2011 [[link]](https://doi.org/10.1371/journal.pcbi.1002270).
+--->
 
-
-* H. Lei, D. A. Fedosov, and G. E. Karniadakis. Time-Dependent and
-Outflow Boundary Conditions for Dissipative Particle Dynamics. *J.
+* H. Lei, D. A. Fedosov, and G. E. Karniadakis. Time-Dependent and Outflow Boundary Conditions for Dissipative Particle Dynamics. *J.
 Comput. Phys.* 230 (10): 3765–3779, 2011
 [[link]](https://doi.org/https://doi.org/10.1016/j.jcp.2011.02.003).
 

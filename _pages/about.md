@@ -52,7 +52,8 @@ Research Interests
 + Model reduction and stochastic simulations 
 + Scientific machine-learning 
 
-Representative publications
+
+Recent publications
 ===
 * L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024 (under review by SIAM Multiscale Modeling & Simulation)  [[arXiv]](https://arxiv.org/abs/2409.11519).
 

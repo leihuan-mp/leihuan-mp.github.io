@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/). I received my Ph.D. in Applied Mathematics from Brown University under supervision of Prof. George Karniadakis. 
 
-My research focuses on computational mathematics and scientific computing. A central aspect of my work is integrating scientific machine learning (SciML) with numerical analysis to construct accurate and physically interpretable partial differential equation (PDE) and stochastic differential equation (SDE) models of multi-scale or high-dimensional problems directly from first-principle descriptions, where conventional approaches often show limitations. In particular, I am interested in designing learning algorithms that preserve essential mathematical properties of the constructed models, such as conservation laws, variational structures, and physical constraints. 
+My research focuses on computational mathematics and scientific computing. A central aspect of my work is integrating scientific machine learning with numerical analysis to construct accurate and physically interpretable partial differential equation (PDE) and stochastic differential equation (SDE) models of multi-scale or high-dimensional problems directly from first-principle descriptions, where conventional approaches often show limitations. In particular, I am interested in designing learning algorithms that preserve essential mathematical properties of the constructed PDE and SDE models, such as conservation laws, variational structures, and physical constraints. 
 
 <!--
 My research focuses on computational mathematics, particularly in scientific machine learning (SciML) and multi-scale modeling related to fluid physics, materials science, and biophysics. I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
@@ -47,19 +47,22 @@ Daoyuan Building 321A\
 
 Research Interests
 ===
-+ Multi-scale modeling
-+ Structure-preserving PDE models and numerical schemes
-+ Model reduction and stochastic simulations 
++ Multi-scale and stochastic modeling
++ Numerical methods for PDEs
 + Scientific machine-learning 
 
 
-Recent publications
+Selected publications
 ===
-* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024 (under review by SIAM Multiscale Modeling & Simulation)  [[arXiv]](https://arxiv.org/abs/2409.11519).
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *arXivpreprint:arXiv:2409.11519*, 2024 (under review by *SIAM Multiscale Model. Simul.*)  [[arXiv]](https://arxiv.org/abs/2409.11519).
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 
+<!--
 * L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
+-->
+
+* W. E, H. Lei, P. Xie, and L. Zhang. Machine learning-assisted multi-scale modeling. *Journal of Mathematical Physics*, 64(7):071101, 2023 [[link]](https://doi.org/10.1063/5.0149861).
 
 * L. Fang , P. Ge, L. Zhang, W. E, and H. Lei.  DeePN<sup>2</sup>: A Deep Learning-Based non-Newtonian Hydrodynamic Model. *Journal of Machine Learning* 1: 114–140, 2022 [[link]](https://doi.org/10.4208/jml.220115).
 
@@ -68,6 +71,11 @@ Recent publications
 -->
 
 * H. Lei, N. A. Baker, and X. Li.  Data-driven parameterization of the generalized Langevin equation. *Proc. Natl. Acad. Sci.* 113 (50):14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
+
+<!---
+* H. Lei, X. Yang, B. Zheng, G. Lin, and N. A. Baker. Constructing surrogate models of complex systems with enhanced sparsity: quantifying the influence of conformational uncertainty in biomolecular solvation. *SIAM Multiscale Model. Simul.* 13 (4): 1327–1353, 2015 [[link]](https://doi.org/10.1137/140981587).
+--->
+
 
 
 

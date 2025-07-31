@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/). I received my Ph.D. in Applied Mathematics from Brown University under supervision of Prof. George Karniadakis. 
+I am an Associate Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/). I received my Ph.D. in Applied Mathematics from Brown University under supervision of Prof. George Karniadakis. 
 
 My research focuses on computational mathematics and scientific computing. A central aspect of my work is integrating scientific machine learning with numerical analysis to construct accurate and physically interpretable partial differential equation (PDE) and stochastic differential equation (SDE) models of multi-scale or high-dimensional problems directly from first-principle descriptions, where conventional approaches often show limitations. In particular, I am interested in designing learning algorithms that preserve essential mathematical properties of the constructed PDE and SDE models, such as conservation laws, variational structures, and physical constraints. 
 
@@ -54,7 +54,7 @@ Research Interests
 
 Selected publications
 ===
-* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 2025 (In press)  [[arXiv]](https://arxiv.org/abs/2409.11519).
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 23 (2): 816-837, 2025  [[link]](https://doi.org/10.1137/24M1694549).
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 
@@ -79,9 +79,10 @@ Selected publications
 
 
 
-Opening
+<!--Opening
 ===
 One Ph.D. position is available starting in Fall 2025 or Spring 2026 [(more info)]({{ site.url }}{{ site.baseurl }}/position/). While my research is motivated by computational modeling of multi-scale problems, such as molecular, fluid, and kinetic systems, my primary goal is to develop mathematically rigorous and computationally efficient methods for learning and simulating complex dynamical systems. I seek motivated Ph.D. students with a strong background in numerical analysis, applied mathematics, or scientific computing who are interested in developing new numerical methods rather than applying existing techniques to domain-specific applications. If you are interested, please contact me by [email](mailto:leihuan@msu.edu).
+-->
 
 <!--
 We are grateful for grant support 

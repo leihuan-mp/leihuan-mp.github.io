@@ -29,7 +29,9 @@ Professional Experience
   * Postdoctoral Associate (2012 - 2013) Mentor: Dr. [George Em Karniadakis](https://www.cfm.brown.edu/faculty/gk/)
 -->  
 
-* Assistant Professor, Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Statistics and Probability, 2019 - present
+* Associate Professor, Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Statistics and Probability, 2025 - present
+
+* Assistant Professor, Michigan State University, Department of Computational Mathematics, Science and Engineering; Department of Statistics and Probability, 2019 - 2025
 
 * Scientist, Pacific Northwest National Laboratory, 2015 - 2019
 

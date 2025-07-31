@@ -7,17 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-Postdoc Associate
+Postdoctoral Associate
 ===
 * Yue Zhao 
 
-Graduate Students
+Current Graduate Students
 ===
-* Pei Ge
-* Liyao Lyu
-* Zhiyuan She
 * Haishen Dai
 * Siyu Guo
+* Shilin Dou
+
+Previous Graduate Students
+===
+* Pei Ge (Ph.D. 2025)
+* Liyao Lyu (Ph.D. 2025)
+* Zhiyuan She (Ph.D. 2025) 
+
+Previous Postdoctoral Associate
+===
+* Lidong Fang (2021-2023)
 
 Undergraduate Students
 =====

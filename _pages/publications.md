@@ -12,7 +12,7 @@ author_profile: true
 
 Selected Publications
 ===
-* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Modeling & Simulation*, 2025 (In press) [[arXiv]](https://arxiv.org/abs/2409.11519).
+* L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 23 (2): 816-837, 2025  [[link]](https://doi.org/10.1137/24M1694549).
 
 
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).

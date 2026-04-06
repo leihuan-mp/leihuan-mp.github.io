@@ -44,7 +44,11 @@ Professional Experience
 Awards
 ======
 
+* Mentorship Award, Michigan State University, 2025
+
 * National Science Foundation, CAREER Award, 2021
+
+* The AMS-Simons Travel Grant, 2013
 
 * Dissertation Fellowship, Brown University, 2012
 

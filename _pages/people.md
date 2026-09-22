@@ -14,8 +14,8 @@ Postdoctoral Associate
 Current Graduate Students
 ===
 * Haishen Dai
-* Siyu Guo
 * Shilin Dou
+* Fengyu Wang
 
 Previous Graduate Students
 ===
@@ -32,5 +32,6 @@ Undergraduate Students
 * Emmett Barrett
 * Mason Lee
 * Dylan Kupetsky (REU 2022, Haverford College)
+* Jake Ekoniak (REU 2025, University of California, Los Angeles) 
 
 

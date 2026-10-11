@@ -10,7 +10,11 @@ author_profile: true
 
 Previous Teaching
 ======
-* CMSE 201: Computational Modeling and Data Analysis I, Spring 2023
+* CMSE 890: Model reduction and scientific machine learning, Fall 2024
+
+* STT 380: Probability & Statistics for Data Science, Spring 2024
+
+* CMSE 201: Computational Modeling and Data Analysis I, Fall 2023, Spring 2023
 
 * CMSE 801: Introduction to computational modeling, Spring 2022, Spring 2021, Fall 2020
 

@@ -10,46 +10,19 @@ redirect_from:
 
 I am an Associate Professor in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) at Michigan State University, with a joint appointment in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/). I received my Ph.D. in Applied Mathematics from Brown University under supervision of Prof. George Karniadakis. 
 
+<!--
 My research focuses on computational mathematics and scientific computing. A central aspect of my work is integrating scientific machine learning with numerical analysis to construct accurate and physically interpretable partial differential equation (PDE) and stochastic differential equation (SDE) models of multi-scale or high-dimensional problems directly from first-principle descriptions, where conventional approaches often show limitations. In particular, I am interested in designing learning algorithms that preserve essential mathematical properties of the constructed PDE and SDE models, such as conservation laws, variational structures, and physical constraints. 
-
-<!--
-My research focuses on computational mathematics, particularly in scientific machine learning (SciML) and multi-scale modeling related to fluid physics, materials science, and biophysics. I develop numerical algorithms for constructing accurate and structure-preserving ML-based models of multi-scale systems directly from the first-principle-based descriptions. My research goal is to establish accurate modeling of multi-scale dynamical systems relevant to non-Newtonian hydrodynamics, non-equilibrium kinetic processes, and meso-scale stochastic reduced dynamics, which are central to various science and engineering applications. 
 -->
 
-<!--
-Research Overview
-===
-
-Accurate modeling of multi-scale systems has been a long-standing problem in both computational mathematics and broad scientific applications. A fundamental challenge arises from their multi-scale nature and high-dimensionality. There is generally no simple set of modes that can be used to project and predict the dynamics in a self-contained manner. Existing approaches often rely on sophisticated micro-macro coupling and empirical constitutive closures.  Despite their broad applications, these empirical models generally show limitations in retaining the molecular-level interactions. Currently, there is still a lack of reliable models to quantify complex multi-scale processes by faithfully modeling the micro-interactions in a transferable and integrated manner.
-
-Recent progress in the machine learning (ML) approach, with its unprecedented capability to approximate high-dimensional functions, has opened up many new possibilities in computational science.  Meanwhile, ML is often perceived as a "black-box" approach lacking fundamental principles. This has been an essential obstacle to making further progress in physical modeling and scientific computing. To construct truly reliable ML-models for multi-scale problems, fundamental challenges remain: (1) How to effectively transfer micro-scale physical laws across scales while retaining physical interpretability; (2) How to strictly preserve the physical constraints and mathematical structures of the ML-based partial and ordinary differential equations (PDEs and ODEs) that ensures the well-posedness and numerical stability? 
-
-My research aims to address these challenges by developing numerical algorithms for constructing accurate ML-based models of multi-scale systems directly from first-principle-based descriptions. As part of the AI for Science initiative, a key objective is to retain the micro-model fidelity while strictly preserving canonical structures and symmetry constraints. Examples include hydrodynamics of multi-scale fluids, kinetic transport, and mesoscale stochastic reduced dynamics. The long-term goal is to enable predictive modeling of multi-scale systems that extends beyond phenomenological understanding, facilitating integrated control across multiple scales.
--->
-
-<!--Associate Professor\
-[School of Data Science](https://sds.cuhk.edu.cn)\
-[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)\
-Daoyuan Building 321A\
-2001 Longxiang Boulevard, Longgang District, Shenzhen, 518172-->
-
-
-<!--Associate Professor (on leave from August 2022)\
-[Department of Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu/)\
-[Department of Mathematics](https://math.msu.edu/)\
-[Michigan State University](https://msu.edu/)-->
-
-
-<!--
-<h2 style="color:red;">Opening</h2> -->
-
-
+My research lies at the intersection of scientific machine learning, multiscale modeling, and numerical analysis. I develop mathematical and computational methods for constructing partial differential equations (PDEs) and stochastic models of multiscale or high-dimensional problems from microscopic first-principles descriptions. In particular, my work focuses on the characterization of admissible model classes that preserve conservation laws, dissipative structure, and physical constraints. I construct representations that enable fast numerical algorithms and develop learning methods for identifying their parametric form from microscopic laws and data. The central goal is to construct physically interpretable reduced models that retain microscopic model fidelity and admit stable, efficient numerical approximation. My recent work focuses on multiscale fluid dynamics, kinetic transport and coarse-grained molecular systems, particularly in regimes where conventional closures shows limitations.
 
 Research Interests
 ===
 + Multi-scale and stochastic modeling
 + Numerical methods for PDEs
 + Scientific machine-learning 
++ Kinetic equations
++ Fluid physics
 
 
 Selected publications

@@ -122,26 +122,30 @@ the Generalized Langevin Equation. *Proc. Natl. Acad. Sci.* 113 (50):
 14183–14188, 2016 [[link]](https://doi.org/10.1073/pnas.1609587113).
 
 
-* X. Yang<sup>\*</sup>, H. Lei<sup>\*</sup>, N. A. Baker, and G. Lin.
+* X. Yang, H. Lei, N. A. Baker, and G. Lin.
  Enhancing Sparsity of Hermite Polynomial Expansions by Iterative
 Rotations. *J. Comput. Phys.* 307: 94–109, 2016 [[link]](https://doi.org/10.1016/j.jcp.2015.11.038).
 
 
+<!--
 * H. Lei, N. A. Baker, L. Wu, G. K. Schenter, C. J. Mundy, and A. M.
 Tartakovsky.  Smoothed Dissipative Particle Dynamics Model for
 Mesoscopic Multiphase Flows in the Presence of Thermal Fluctuations.
 *Phys. Rev. E* 94: 023304, 2016 [[link]](https://doi.org/10.1103/PhysRevE.94.023304).
+--->
 
-
+<!--
 * K. Lykov, X. Li, H. Lei, I. V. Pivkin, and G. E. Karniadakis. 
 Inflow/Outflow Boundary Conditions for Particle-Based Blood Flow
 Simulations: Application to Arterial Bifurcations and Trees. *PLoS
 Comput. Biol.* 11 (8): e1004410, 2015 [[link]](https://doi.org/10.1371/journal.pcbi.1004410).
+--->
 
 * H. Lei, X. Yang, B. Zheng, G. Lin, and N. A. Baker. Constructing
 Surrogate Models of Complex Systems with Enhanced Sparsity: Quantifying
 the Influence of Conformational Uncertainty in Biomolecular Solvation.
 *SIAM Multiscale Model. Simul.* 13 (4): 1327–1353, 2015 [[link]](https://doi.org/10.1137/140981587).
+
 
 * H. Lei, C. J. Mundy, G. K. Schenter, and N. K. Voulgarakis. 2015.
 Modeling Nanoscale Hydrodynamics by Smoothed Dissipative Particle

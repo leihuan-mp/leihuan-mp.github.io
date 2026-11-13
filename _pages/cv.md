@@ -35,9 +35,9 @@ Professional Experience
 
 * Scientist, Pacific Northwest National Laboratory, 2015 - 2019
 
-* Postdoctoral Associate, Pacific Northwest National Laboratory, 2013 - 2015, Mentor: Dr. [Nathan A. Baker](https://www.linkedin.com/in/nathanandrewbaker/)
+* Postdoctoral Associate, Pacific Northwest National Laboratory, 2013 - 2015 
 
-* Postdoctoral Associate, Brown University, 2012 - 2013, Mentor: Dr. [George Em Karniadakis](https://www.cfm.brown.edu/faculty/gk/)
+* Postdoctoral Associate, Brown University, 2012 - 2013
 
 
 
@@ -46,7 +46,7 @@ Awards
 
 * Mentorship Award, Michigan State University, 2025
 
-* National Science Foundation, CAREER Award, 2021
+* National Science Foundation, CAREER Award, 2022
 
 * The AMS-Simons Travel Grant, 2013
 

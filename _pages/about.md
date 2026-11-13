@@ -29,19 +29,21 @@ Research Interests
 Selected publications
 ===
 
+
 * Y. Zhao and H. Lei. Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, *Journal of Computational Physics*, 565, 115205, 2026 [[link]](https://www.sciencedirect.com/science/article/pii/S0021999126005577?via%3Dihub).
 
 * L. Lyu and H. Lei. Consensus-Based Adaptive Sampling and Approximation for High-Dimensional Energy Landscapes. *SIAM Journal on Scientific Computing*, 48(5): B751-B775, 2026  [[link]](https://epubs.siam.org/doi/full/10.1137/25M1764967).
 
 * Y. Zhao, J. Burby, A. Christlieb and H. Lei. Data-Driven Construction of a Generalized Kinetic Collision Operator from Molecular Dynamics. *Phys. Rev. Lett.*, 135, 185101, 2025  [[link]](https://journals.aps.org/prl/abstract/10.1103/gml7-f2ng).
 
+<!--
 * L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 23 (2): 816-837, 2025  [[link]](https://doi.org/10.1137/24M1694549).
-
-* P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
+-->
 
 <!--
-* L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
+* P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 -->
+* L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
 
 * W. E, H. Lei, P. Xie, and L. Zhang. Machine learning-assisted multi-scale modeling. *Journal of Mathematical Physics*, 64(7):071101, 2023 [[link]](https://doi.org/10.1063/5.0149861).
 

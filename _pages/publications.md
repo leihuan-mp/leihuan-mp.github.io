@@ -12,6 +12,18 @@ author_profile: true
 
 Selected Publications
 ===
+
+## Preprints
+
+- P. [Ge and H. Lei. Variational learning of energy-stable macroscopic flow equations from microscopic laws](https://arxiv.org/abs/2611.01432). *arXiv preprint*, arXiv:2611.01432, 2026.
+
+- Y. [Zhao, A. Christlieb, and H. Lei. Learning a general class of admissible multi-species collision operators from molecular dynamics](https://arxiv.org/abs/2609.01845). *arXiv preprint*, arXiv:2609.01845, 2026.
+
+- Z. [She, L. Lyu, B. Smith, and H. Lei. A unified framework for data-driven construction of stochastic reduced models with state-dependent memory](https://arxiv.org/abs/2509.07264). *arXiv preprint*, arXiv:2509.07264, 2025.
+
+## Published and Accepted Papers
+
+
 * L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 23 (2): 816-837, 2025  [[link]](https://doi.org/10.1137/24M1694549).
 
 

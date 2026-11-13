@@ -44,9 +44,6 @@ author_profile: true
 * P. Ge, Z. Zhang, and H. Lei. Data-driven learning of the generalized Langevin equation with state-dependent memory. *Phys. Rev. Lett.* 133:077301, 2024. [[link]](https://doi.org/10.1103/PhysRevLett.133.077301).
 
 
-* L. Lyu and H. Lei. Consensus-based construction of high-dimensional free energy surface. *arXivpreprint:arXiv:2311.05009*, 2023  [[arXiv]](https://arxiv.org/abs/2311.05009).
-
-
 * L. Lyu and H. Lei. Construction of coarse-grained molecular dynamics with many-body non-Markovian memory. *Phys. Rev. Lett.* 131:177301, 2023. [[link]](https://doi.org/10.1103/PhysRevLett.131.177301).
 
 

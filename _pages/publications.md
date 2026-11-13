@@ -10,18 +10,32 @@ author_profile: true
 [[Google Scholar profile]](https://scholar.google.com/citations?user=7OlLjl0AAAAJ&hl=en)
 
 
-Selected Publications
-===
-
 ## Preprints
 
-- P. [Ge and H. Lei. Variational learning of energy-stable macroscopic flow equations from microscopic laws](https://arxiv.org/abs/2611.01432). *arXiv preprint*, arXiv:2611.01432, 2026.
+* P. Ge and H. Lei. Variational learning of energy-stable macroscopic flow equations from microscopic laws. *arXiv preprint: arXiv:2611.01432*, 2026  [[arXiv]](https://arxiv.org/abs/2611.01432).
 
-- Y. [Zhao, A. Christlieb, and H. Lei. Learning a general class of admissible multi-species collision operators from molecular dynamics](https://arxiv.org/abs/2609.01845). *arXiv preprint*, arXiv:2609.01845, 2026.
 
-- Z. [She, L. Lyu, B. Smith, and H. Lei. A unified framework for data-driven construction of stochastic reduced models with state-dependent memory](https://arxiv.org/abs/2509.07264). *arXiv preprint*, arXiv:2509.07264, 2025.
+* Y. Zhao, A. Christlieb, and H. Lei. Learning a general class of admissible multi-species collision operators from molecular dynamics. *arXiv preprint: arXiv:2609.01845*, 2026  [[arXiv]](https://arxiv.org/abs/2609.01845).
 
-## Published and Accepted Papers
+
+* Z. She, L. Lyu, B. Smith, and H. Lei. A unified framework for data-driven construction of stochastic reduced models with state-dependent memory. *arXiv preprint: arXiv:2509.07264*, 2025  [[arXiv]](https://arxiv.org/abs/2509.07264).
+
+
+## Selected Publications
+
+* Y. Zhao, G. Fu, and H. Lei. From molecular dynamics to kinetic models: Data-driven generalized collision operators in 1D3V plasmas. *J. Comput. Phys.*, 568: 115402, 2027  [[link]](https://doi.org/10.1016/j.jcp.2026.115402).
+
+
+* L. Lyu and H. Lei. Consensus-based adaptive sampling and approximation for high-dimensional energy landscapes. *SIAM J. Sci. Comput.*, 48(5): B751–B775, 2026  [[link]](https://doi.org/10.1137/25M1764967).
+
+
+* Y. Zhao and H. Lei. Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity. *J. Comput. Phys.*, 565: 115205, 2026  [[link]](https://doi.org/10.1016/j.jcp.2026.115205).
+
+
+* H. Dai and H. Lei. Hybrid explicit-implicit predictor-corrector exponential time-differencing multistep Padé schemes for semilinear parabolic equations with time-delay. *J. Comput. Appl. Math.*, 474: 116898, 2026  [[link]](https://doi.org/10.1016/j.cam.2025.116898).
+
+
+* Y. Zhao, J. Burby, A. Christlieb, and H. Lei. Data-driven construction of a generalized kinetic collision operator from molecular dynamics. *Phys. Rev. Lett.*, 135: 185101, 2025  [[link]](https://doi.org/10.1103/gml7-f2ng).
 
 
 * L. Lyu and H. Lei. On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes. *SIAM Multiscale Model. Simul.*, 23 (2): 816-837, 2025  [[link]](https://doi.org/10.1137/24M1694549).

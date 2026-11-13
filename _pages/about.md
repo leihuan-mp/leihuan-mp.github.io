@@ -29,6 +29,7 @@ Research Interests
 Selected publications
 ===
 
+* P. Ge and H. Lei. Variational learning of energy-stable macroscopic flow equations from microscopic laws. *arXiv preprint: arXiv:2611.01432*, 2026  [[arXiv]](https://arxiv.org/abs/2611.01432).
 
 * Y. Zhao and H. Lei. Fast spectral separation method for kinetic equation with anisotropic non-stationary collision operator retaining micro-model fidelity, *Journal of Computational Physics*, 565, 115205, 2026 [[link]](https://www.sciencedirect.com/science/article/pii/S0021999126005577?via%3Dihub).
 
